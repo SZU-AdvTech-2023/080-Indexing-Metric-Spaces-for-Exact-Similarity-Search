@@ -1,0 +1,9 @@
+@article{REPO080,
+    author = "Chen, Lu and Gao, Yunjun and Song, Xuan and Li, Zheng and Zhu, Yifan and Miao, Xiaoye and Jensen, Christian S",
+    journal = "ACM Computing Surveys",
+    number = "6",
+    pages = "1--39",
+    title = "{Indexing Metric Spaces for Exact Similarity Search}",
+    volume = "55",
+    year = "2022"
+}
